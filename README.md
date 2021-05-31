@@ -7,5 +7,12 @@ How to?
 
 1. Clone the repo
 2. Change folder name to something of your choice
-3. ```cd <folder_name> && yarn install``` 
+3. ```cd <folder_name> && yarn install```
 4. ```cd ios && pod install```
+
+How to change name?
+
+1. A super useful package "react-native-rename" already gets installed as part of previous yarn install
+2. ```npx react-native-rename <new_name>```
+3. For Android to change the bundle name as well - ```$ npx react-native-rename <newName> -b <bundleIdentifier>```
+4. For iOS, clean the build folder (or use XCode), re-build, and then re-install all packages.
