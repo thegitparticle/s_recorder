@@ -25,3 +25,4 @@ Committing this new repo to Github?
 3. Open the created repo page (.git)
 4. Then follow steps below "…or push an existing repository from the command line"
 5. Edit the README.md file in root of this repo to suit your needs.
+6. Commit again as you would normally do to commit changes - this will replace all template code (names, etc) with the fresh your project names.
