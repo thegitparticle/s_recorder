@@ -26,3 +26,7 @@ Committing this new repo to Github?
 4. Then follow steps below "…or push an existing repository from the command line"
 5. Edit the README.md file in root of this repo to suit your needs.
 6. Commit again as you would normally do to commit changes - this will replace all template code (names, etc) with the fresh your project names.
+
+Adding custom fonts (Optional)
+
+1. Follow this amazing tutorial - https://mehrankhandev.medium.com/ultimate-guide-to-use-custom-fonts-in-react-native-77fcdf859cf4
