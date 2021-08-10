@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface BYU_RN_TemplateTests : XCTestCase
+@interface srecorderTests : XCTestCase
 
 @end
 
-@implementation BYU_RN_TemplateTests
+@implementation srecorderTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {

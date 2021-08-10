@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "BYU_RN_Template.app"
-               BlueprintName = "BYU_RN_Template"
-               ReferencedContainer = "container:BYU_RN_Template.xcodeproj">
+               BuildableName = "srecorder.app"
+               BlueprintName = "srecorder"
+               ReferencedContainer = "container:srecorder.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "BYU_RN_TemplateTests.xctest"
-               BlueprintName = "BYU_RN_TemplateTests"
-               ReferencedContainer = "container:BYU_RN_Template.xcodeproj">
+               BuildableName = "srecorderTests.xctest"
+               BlueprintName = "srecorderTests"
+               ReferencedContainer = "container:srecorder.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "BYU_RN_Template.app"
-            BlueprintName = "BYU_RN_Template"
-            ReferencedContainer = "container:BYU_RN_Template.xcodeproj">
+            BuildableName = "srecorder.app"
+            BlueprintName = "srecorder"
+            ReferencedContainer = "container:srecorder.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "BYU_RN_Template.app"
-            BlueprintName = "BYU_RN_Template"
-            ReferencedContainer = "container:BYU_RN_Template.xcodeproj">
+            BuildableName = "srecorder.app"
+            BlueprintName = "srecorder"
+            ReferencedContainer = "container:srecorder.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
