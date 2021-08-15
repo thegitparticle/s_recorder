@@ -1,11 +1,11 @@
 import {ADD_RECORDING} from './types';
 
 const INITIAL_STATE = {
-  past_recordings: ['/lol'],
+  past_recordings: ['/lmao', 'pop', '/lk', 'go'],
 };
 
 const PastRecordingsReducer = (state = INITIAL_STATE, action) => {
-  switch (action.types) {
+  switch (action.type) {
     case ADD_RECORDING:
       var past_recordings = action.payload;
 

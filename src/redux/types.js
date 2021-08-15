@@ -1,1 +1,2 @@
 export const ADD_RECORDING = 'ADD_RECORDING';
+export const NEW_RECORDING = 'NEW_RECORDING';
